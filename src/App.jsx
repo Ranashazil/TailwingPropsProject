@@ -17,8 +17,8 @@ function App() {
   return (
     <>
      <h1 className='bg-green-500 text-black p-4 rounded-xl m-6'>Tailwind story</h1>
-     <Card name ={"shazishiza"} mine={objct} mine2= {yours} btntext = "khreedo"/>
-     <Card name ={"meri Zindagi"} />
+     <Card name ="shazishiza" mine={objct} mine2= {yours} btntext = "khreedo"/>
+     <Card name ="meri Zindagi" />
     </>
   )
 }
